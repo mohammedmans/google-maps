@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LocationAndMaps</string>
+    <string name="action_settings">Settings</string>
+    <string name="warning">warning</string>
+    <string name="access_Location">this app wants to access your location to show nearby places</string>
+    <string name="accept">accept</string>
+    <string name="cancel">cancel</string>
+    <string name="please_enable_gps">please enable gps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_api_key">AIzaSyC4YnvENswMBJlBO6LLlLk8KR_cF0c4kHg</string>
+    <string name="google_play_services_not_available">please install google play services on your device</string>
+</resources>
